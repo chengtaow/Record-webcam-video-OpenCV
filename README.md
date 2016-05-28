@@ -2,6 +2,8 @@
 This simple program record a video from the webcam using OpenCV.
 Using the sources from "Learning OpenCV Computer Vision in C++ with the OpenCV Library", Adrian Kaebler& Gary Bradski.
 
+This program runs under Ubuntu-14.04 and OpenCV-2.4.13
+
 To run this program. Put all the file in the same folder. Then in Linux terminal:
 
 1. $ cmake .
