@@ -12,4 +12,4 @@ To run this program. Put all the files in the same folder. Then in Linux termina
 
 3. $ ./Record_cam_video Video.avi
 
-This will create a Video.avi file in the folder. The program transfer your webcam video to a log-polar video and record it.
+This will create a Video.avi file in the folder. The program will transfer your webcam video to a log-polar video and record it.
